@@ -5,7 +5,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Введите x");
             double x = Convert.ToDouble(Console.ReadLine());
